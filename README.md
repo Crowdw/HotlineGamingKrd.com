@@ -1,1 +1,1 @@
-# HotlineGamingKrd.io
+# hotlinegaming.github.io
