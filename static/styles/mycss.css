@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Michroma&display=swap");
+
+body {
+  font-family: Michroma, serif;
+  background: #ffffff
+    url(https://kartinki.pibig.info/uploads/posts/2023-04/thumbs/1680325036_kartinki-pibig-info-p-maiami-kartinki-krasivie-arti-31.jpg)
+    center center/cover no-repeat;
+}
+
+.nav-link {
+  color: rgb(255, 127, 223);
+}
+
+.navbar-nav .nav-link.active {
+  color: blueviolet;
+}
+
+.navbar-brand img {
+  width: 70px;
+}
+
+.navbar-toggler {
+  background-color: blueviolet;
+}
+
+.sidebar {
+  color: rgb(0, 255, 234);
+}
+
+.card {
+  background-color: rgb(223, 74, 223);
+  color: rgb(254, 254, 254);
+}
+
+.slide-text {
+  font-family: Michroma, serif;
+  background: #ffffff
+    url(https://www.zastavki.com/pictures/originals/2015/Backgrounds_Digital_background_of_neon_stripes_097229_.jpg)
+    center center/cover no-repeat;
+  color: rgb(255, 255, 255);
+  margin: auto auto;
+}
+.footer-text {
+  color: rgb(255, 255, 255);
+  margin: auto auto;
+}
+footer {
+  background: #ffffff
+    url(https://elements-video-cover-images-0.imgix.net/bbe55092-20ae-4582-8477-d857cfb5543a/video_preview/video_preview_0000.jpg?auto=compress%2Cformat&h=281&w=500&fit=min&s=c627b9ec9abc6c1f7dc23467fd1bd8d2)
+    center center/cover no-repeat;
+}
+
+.media-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 755px) {
+  .carousel-indicators {
+    display: none;
+  }
+}
